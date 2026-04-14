@@ -1,5 +1,5 @@
 n:int=int(input("Enter a number: "))
-l=len(string(n))
+l=len(str(n))
 m=n
 sum:int=0
 while(m>0):
